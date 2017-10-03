@@ -1,0 +1,1 @@
+# it-blog_django_functions
